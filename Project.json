@@ -1,6 +1,7 @@
 [
     {
         "title": "E-commerce ",
+        "featured":true,
         "subTitle": "Store Management System.",
         "imageUrl": "/project-1.jpg",
         "description": "This Semester Project is an E-Commerce Store Management System in C++. It lets users register, log in, and manage products/orders as admins or view/purchase products as regular users. The system uses structures for Users, Products, and Orders with related features.",
