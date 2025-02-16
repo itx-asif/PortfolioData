@@ -1,0 +1,10 @@
+[
+    {
+        "title": "E-commerce ",
+        "subTitle": "Store Management System.",
+        "imageUrl": "/project-1.jpg",
+        "description": "This Semester Project is an E-Commerce Store Management System in C++. It lets users register, log in, and manage products/orders as admins or view/purchase products as regular users. The system uses structures for Users, Products, and Orders with related features.",
+        "projectLink": "/projects/Ecommerce-management-system",
+        "previewLink": "https://gist.github.com/itx-asif/3e2985e7c81f37cf2cf0f3ea7553b602"
+    }
+]
